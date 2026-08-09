@@ -1,0 +1,11 @@
+{
+  "name": "MonoPolySelect",
+  "displayName": "MonoPolySelect",
+  "author": "DeterMination-Wind",
+  "version": "1.0.0",
+  "minGameVersion": 154,
+  "description": "指挥模式辅助小模组：在「设置→控制」中配置两个快捷键，一键选中所有 mono、一键选中所有 poly。",
+  "main": "monopolyselect.MonoPolySelectMod",
+  "hidden": true,
+  "java": true
+}
