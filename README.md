@@ -25,3 +25,5 @@ A tiny client-side helper mod for [Mindustry](https://github.com/Anuken/Mindustr
 ```
 
 Merged desktop + Android artifacts are written to `dist/`.
+
+Note: for dev builds (project version `0.0.0`), the merged jar is written to `构建/MonoPolySelect/` (as `MonoPolySelect-dev.jar`) instead of `dist/`.
