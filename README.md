@@ -1,6 +1,7 @@
 # MonoPolySelect
 
-> [NOTE] 若有反馈，请发送反馈到bugsoc@qq.com / If you have any feedback, please send it to bugsoc@qq.com
+> [!NOTE]
+> 若有反馈，请发送反馈到bugsoc@qq.com / If you have any feedback, please send it to bugsoc@qq.com
 
 A tiny client-side helper mod for [Mindustry](https://github.com/Anuken/Mindustry): select all of your mono or poly units with a single hotkey.
 
